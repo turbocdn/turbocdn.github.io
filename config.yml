@@ -82,7 +82,7 @@ params:
     homeInfoParams:
         Title: "Samir Paul"
         Content: >
-           <img alt="avatar" src="https://samirpaulb.github.io/assets/samirpaul-blog-home-page-bigavatar.webp" align="right"/>
+           <img alt="avatar" width="200" height="200" src="https://samirpaulb.github.io/assets/samirpaul-blog-home-page-bigavatar.webp" align="right"/>
            I am an undergraduate student at the National Institute of Technology, Durgapur. I enjoy problem-solving and coding. I love solving questions on LeetCode and doing competitive programming. I am well-versed in Computer Science fundamentals like OOPS, Operating Systems, Database Management Systems, and Computer Networks and I also have a keen interest in High-Level System Design. I have built a few projects on Web Development using MongoDB, Express, ReactJS and Node.js, and App Development using Dart and Flutter. I am passionate about developing complex applications that solve real-world problems impacting millions of users. I always strive to bring 100% to the work I do.
         
 
