@@ -2,7 +2,7 @@ baseURL: "https://sbkv1.github.io/"
 title: Blog - Samir Paul
 paginate: 5
 theme: PaperMod
-
+ 
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
