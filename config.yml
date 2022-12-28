@@ -80,7 +80,7 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "Samir Paul"
+        Title: "Tech Blog"
         Content: >
             - https://samirpaul1.github.io/sitemap.xml
             - https://samirpaul1.github.io/blog/sitemap.xml
