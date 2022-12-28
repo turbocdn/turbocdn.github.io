@@ -5,7 +5,10 @@ layout: "about"
 summary: "Links"
 ---
 
-
+- https://samirpaul1.github.io/sitemap.xml
+- https://samirpaul1.github.io/blog/sitemap.xml
+- https://samirpaul.in/sitemap.xml
+- https://samirpaul.in/blog/sitemap.xml
 - https://samirpaul.in/posts/complete-computer-science-study-plan-to-become-a-software-engineer/
 - https://samirpaul.in/posts/computer-networks-notes/
 - https://samirpaul.in/posts/data-structures-and-algorithms-for-coding-interview/
