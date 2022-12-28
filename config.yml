@@ -6,7 +6,7 @@ theme: PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
-buildFuture: false
+buildFuture: true
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
@@ -24,8 +24,8 @@ taxonomies:
   series: series
 menu:
     main:
-        - name: Archive
-          url: archives
+        - name: Links
+          url: links
           weight: 5
         - name: Search
           url: search/
