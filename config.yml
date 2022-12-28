@@ -1,5 +1,5 @@
 baseURL: "https://sbkv1.github.io/" 
-title: Blog - Samir Paul
+title: Tech Blog 
 paginate: 5
 theme: PaperMod
  
@@ -68,7 +68,7 @@ params:
 
     profileMode:
         enabled: false
-        title: Samir Paul
+        title: Tech Blog
         imageUrl: "#"
         imageTitle: my image
         # imageWidth: 120
@@ -112,7 +112,7 @@ params:
 
     analytics:
         google:
-            SiteVerificationTag: "vJAOBxbJTCK2vXG-hLFeGsoC9hXgFlCpuJJ8AcJLROQ"
+            SiteVerificationTag: "K6He7FEDRxz7EgmCjUdIimKF8uTffswTPpCqs6l0CXU"
         bing:
             SiteVerificationTag: "1A92FC2EC113F8616A21D76DA684A133"
         yandex:
