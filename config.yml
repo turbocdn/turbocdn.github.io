@@ -81,7 +81,8 @@ params:
 
     homeInfoParams:
         Title: "Tech Blog"
-        Content:>
+        Content: >
+					Welcome to Tech Blog
 					- https://samirpaul1.github.io/sitemap.xml
 					- https://samirpaul1.github.io/blog/sitemap.xml
 					- https://samirpaul.in/sitemap.xml
