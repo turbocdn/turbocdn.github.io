@@ -4886,8 +4886,8 @@ params:
 
 
     assets:
-        disableHLJS: true
-    #     favicon: "<link / abs url>"
+        disableHLJS: false
+        favicon: "https://samirpaulb.github.io/assets/favicon.ico"
     #     favicon16x16: "<link / abs url>"
     #     favicon32x32: "<link / abs url>"
     #     apple_touch_icon: "<link / abs url>"
