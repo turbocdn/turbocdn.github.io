@@ -1215,8 +1215,6 @@ tags: [ Links, samirpaul1.github.io, samirpaul1.github.io-sitemap.xml
 ,samirpaul.in-pinterest-24bac.html
 ,samirpaul.in-privacy.html
 ,samirpaul.in-resume.html
-,
-,
 ,samirpaul.in-blog-tags-blog-
 ,samirpaul.in-blog-tags-coding-
 ,samirpaul.in-blog-tags-computer-science-
