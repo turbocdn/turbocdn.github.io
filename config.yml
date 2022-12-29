@@ -1,5 +1,5 @@
-baseURL: "https://sbkv1.github.io/" 
-title: Tech Blog 
+baseURL: "https://turbocdn.github.io/" 
+title: TurboCDN 
 paginate: 5
 theme: PaperMod
  
